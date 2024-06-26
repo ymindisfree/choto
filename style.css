@@ -1,0 +1,50 @@
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #FFA07A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFFACD;
+}
+body {
+    background-color: #FFFACD;
+}
+.Name_Site {
+    margin-left: 35px;
+    font-size: 52px;
+}
+.naprav {
+    margin-right: 35px;
+}
+footer {
+    background-color: #FFA07A;
+    height: 100px;
+}
+.rebyta {
+    font-size: 20px;
+    color: #FFFACD;
+}
+.sled {
+    text-decoration: none;
+    color: #FFFACD;
+}
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+div.img {
+    background-image: url('v631_8.png');
+    background-size: 100% 960px;
+    height: 960px;
+    text-align: center;
+    color: white;
+}
+div.img h1.first{
+    padding-top: 400px;
+}
+div.second {
+    text-align: center;
+    color: black;
+}
