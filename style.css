@@ -48,3 +48,12 @@ div.second {
     text-align: center;
     color: black;
 }
+div.second table {
+    font-size: 130%;
+}
+td.one {
+    text-align: right;
+}
+td.two {
+    text-align: left;
+}
