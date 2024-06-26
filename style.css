@@ -9,6 +9,7 @@ header {
 }
 header a {
     color: #FFFACD;
+    text-decoration: none;
 }
 body {
     background-color: #FFFACD;
@@ -20,17 +21,17 @@ body {
 .naprav {
     margin-right: 35px;
 }
-footer {
+footer{
     background-color: #FFA07A;
     height: 100px;
 }
-.rebyta {
+.rebyta{
     font-size: 20px;
     color: #FFFACD;
 }
-.sled {
+.sled{
     text-decoration: none;
-    color: #FFFACD;
+    color:#FFFACD;
 }
 * {
     font-family: "Montserrat", sans-serif;
