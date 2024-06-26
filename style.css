@@ -7,6 +7,9 @@ header {
     align-items: center;
     color: #FFFACD;
 }
+header a {
+    color: #FFFACD;
+}
 body {
     background-color: #FFFACD;
 }
