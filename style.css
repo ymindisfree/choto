@@ -43,10 +43,10 @@ div.img {
     background-size: 100% 960px;
     height: 960px;
     text-align: center;
-    color: white;
+    color: darkred;
 }
 div.img h1.first{
-    padding-top: 400px;
+    padding-top: 100px;
 }
 div.second {
     text-align: center;
